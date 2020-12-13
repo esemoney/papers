@@ -1,2 +1,12 @@
 # papers
-Papers (ideally with code) exploring token engineering
+
+> Papers (ideally with code) exploring token engineering
+
+[From curved bonding to configuration spaces](https://epub.wu.ac.at/7385/1/zargham_shorish_paruch.pdf)
+
+- Bonding curves are continuous liquidity mechanismswhich are used in market design for cryptographically-supportedtoken  economies.  Tokens  are  atomic  units  of  state  informationwhich are cryptographically verifiable in peer-to-peer networks.Bonding  curves  are  an  example  of  an  enforceable  mechanismthrough   which   participating   agents   influence   this   state.   Bydesigning such mechanisms, an engineer may establish the topo-logical  structure  of  a  token  economy  without  presupposing  theutilities or associated actions of the agents within that economy.This is accomplished by introducing configuration spaces, whichare  proper  subsets  of  the  global  state  space  representing  allachievable  states  under  the  designed  mechanisms.  Any  globalproperties true for all points in the configuration space are truefor  all  possible  sequences  of  actions  on  the  part  of  agents.  Thispaper generalizes the notion of a bonding curve to formalize therelationship between cryptographically enforced mechanisms andtheir  associated  configuration  spaces,  using  invariant  propertiesof conservation functions. We then proceed to apply this frame-work  to  analyze  the  augmented  bonding  curve  design,  whichis  currently  under  development  by  a  project  in  the  non-profitfunding  sector.
+
+[Economic games as estimators](https://epub.wu.ac.at/7433/)
+
+- Discrete event games are discrete time dynamical systems whose state transitions are discrete events caused by actions taken by agents within the game. The agents’ objectives and associated decision rules need not be known to the game designer in order to impose struc- ture on a game’s reachable states. Mechanism design for discrete event games is accomplished by declaring desirable invariant properties and restricting the state transition functions to conserve these properties at every point in time for all admissible actions and for all agents, using techniques familiar from state-feedback control theory. Building upon these connections to control theory, a framework is developed to equip these games with estimation properties of signals which are private to the agents playing the game. Token bonding curves are presented as discrete event games and numerical experiments are used to investigate their signal processing properties with a focus on input-output response dynamics.
+
