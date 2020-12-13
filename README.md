@@ -1,6 +1,6 @@
 # papers
 
-> Papers (ideally with code) exploring token engineering
+> Papers (ideally with code) exploring token engineering and DAOs and stuff
 
 [From curved bonding to configuration spaces](https://epub.wu.ac.at/7385/1/zargham_shorish_paruch.pdf)
 
