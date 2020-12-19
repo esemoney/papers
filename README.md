@@ -37,3 +37,10 @@ Inspired by [Papers with Code](https://paperswithcode.com/) and [The Morning Pap
 - **Code:** TBD.
 
 <br />
+
+## Books
+
+> Starting to aggregate books as well. May or may not move this to another repo in the future.
+
+- [Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf) - The evolution of institutions for collective action.
+- [Business Dynamics](https://web.mit.edu/jsterman/www/BusDyn2.html) - Systems thinking and modeling for a complex world.
